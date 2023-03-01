@@ -101,6 +101,8 @@ hide:
                       </div>
                   </div>
 
+                  
+
                   <div class='py-4 px-4 border rounded-lg border-gray-200'>
                         <div class='flex items-center space-x-3 py-2'> 
                           <p class='text-base font-display font-bold'>Boutiques & terminaux de ventes </p>
