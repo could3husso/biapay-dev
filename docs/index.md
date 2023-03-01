@@ -96,7 +96,7 @@ hide:
                       <div class="pt-8 leading-7">
                         <!-- <p class="text-gray-900">Want to dig deeper into Tailwind?</p> -->
                         <p>
-                          <a href="/biapay-dev/authentification" class=" text-sky-200 hover:text-sky-600">Lire le tutoriel &rarr;</a>
+                          <a href="/biapay-dev/authentification" class="text-sky-200 hover:text-sky-600">Lire le tutoriel &rarr;</a>
                         </p>
                       </div>
                   </div>
