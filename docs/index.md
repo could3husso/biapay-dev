@@ -96,7 +96,7 @@ hide:
                       <div class="pt-8 leading-7">
                         <!-- <p class="text-gray-900">Want to dig deeper into Tailwind?</p> -->
                         <p>
-                          <a href="/authentification" class=" text-sky-200 hover:text-sky-600">Debuter le tutoriel &rarr;</a>
+                          <a href="/biapay-dev/authentification" class=" text-sky-200 hover:text-sky-600">Lire le tutoriel &rarr;</a>
                         </p>
                       </div>
                   </div>
@@ -113,7 +113,7 @@ hide:
                         <div class="pt-12 leading-7">
                           <!-- <p class="text-gray-900">Debuter le tutoriel</p> -->
                           <p>
-                            <a href="#" class=" text-sky-200 hover:text-sky-600">Debuter le tutoriel &rarr;</a>
+                            <a href="#" class=" text-sky-200 hover:text-sky-600">Lire le tutoriel &rarr;</a>
                           </p>
                         </div>
                   </div>
@@ -130,7 +130,7 @@ hide:
                         <div class="pt-8 leading-7">
                           <!-- <p class="text-gray-900">Want to dig deeper into Tailwind?</p> -->
                           <p>
-                            <a href="/passerelle-de-paiement" class=" text-sky-200 hover:text-sky-600">Lire le tutoriel &rarr;</a>
+                            <a href="/biapay-dev/passerelle-de-paiement" class=" text-sky-200 hover:text-sky-600">Lire le tutoriel &rarr;</a>
                           </p>
                         </div>
                   </div>
@@ -147,7 +147,7 @@ hide:
                     <div class="pt-8 leading-7">
                       <!-- <p class="text-gray-900">Want to dig deeper into Tailwind?</p> -->
                       <p>
-                        <a href="/transferts" class=" text-sky-200 hover:text-sky-600">Lire le tutoriel &rarr;</a>
+                        <a href="/biapay-dev/transferts" class=" text-sky-200 hover:text-sky-600">Lire le tutoriel &rarr;</a>
                       </p>
                     </div>
               </div>
@@ -190,7 +190,7 @@ hide:
                               Nous mettons à la disposition des intégrateurs un ensemble de modules de paiement pour leur site d'e-commerce.
                             </p>
 
-                            <a href="modules/" class='px-2 py-2'>Explore </a>
+                            <a href="modules/" class='px-2 py-2 text-sky-200 hover:text-sky-600'>Consulter &rarr; </a>
                           </div>
 
                       </div>
