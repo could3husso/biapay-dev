@@ -191,7 +191,7 @@ hide:
                               Nous mettons à la disposition des intégrateurs un ensemble de modules de paiement pour leur site d'e-commerce.
                             </p>
 
-                            <a href="/biapay-dev/modules/" class='px-2 py-2 text-sky-200 hover:text-sky-600'>Consulter &rarr; </a>
+                            <a href="/modules/" class='px-2 py-2 text-sky-200 hover:text-sky-600'>Consulter &rarr; </a>
                           </div>
 
                       </div>
