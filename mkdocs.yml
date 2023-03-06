@@ -18,12 +18,14 @@ theme:
   language: fr
   name: material
   features: 
-    # - navigation.top
+    - navigation.top
+    - toc.integrate
     - navigation.tabs
     - navigation.path
     - navigation.sections
     - content.action.edit
     - content.action.view
+    - content.tabs.link
     - content.code.annotate
     - content.code.copy
     - navigation.footer
