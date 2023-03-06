@@ -88,7 +88,6 @@ hide:
                       <div class='flex items-center space-x-3 py-2'> 
                         <p class='text-base font-display font-bold'>Authentification BIAPAY</p>
                       </div>
-
                       <div class="text-gray-600">
                         <p class="py-2">Ce guide vous vous permettra de : </p>
                         <p>Creer un type de compte utilisateur BIAPAY, Identifier son compte marchand, Parametrer son compte utilisateur, Inviter des membres de son equipe.</p>
